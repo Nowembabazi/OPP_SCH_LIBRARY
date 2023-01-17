@@ -68,8 +68,8 @@ To get a local copy up and running, follow these steps.
 
 👤 **Nowembabazi Nickson**
 
-- GitHub: [@githubhandle](https://github.com/Nowembabazi)
-- Twitter: [@twitterhandle](https://twitter.com/NowembabaziN)
+- GitHub: [@Nowembabazi](https://github.com/Nowembabazi)
+- Twitter: [@NowembabaziN](https://twitter.com/NowembabaziN)
 - Linkedin: [@linkedinhandle](https://www.linkedin.com/in/nowebabazi-nickson/l)
 
 
