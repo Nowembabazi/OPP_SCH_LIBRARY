@@ -70,7 +70,7 @@ To get a local copy up and running, follow these steps.
 
 - GitHub: [@Nowembabazi](https://github.com/Nowembabazi)
 - Twitter: [@NowembabaziN](https://twitter.com/NowembabaziN)
-- Linkedin: [@linkedinhandle](https://www.linkedin.com/in/nowebabazi-nickson/l)
+- Linkedin: [@nowembabazi-nickson](https://www.linkedin.com/in/nowebabazi-nickson/l)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
