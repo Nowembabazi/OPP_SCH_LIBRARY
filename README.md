@@ -80,6 +80,10 @@ To get a local copy up and running, follow these steps.
 ## 🔭 Future Features <a name="future-features"></a>
 
 > To be added later
+- Decorate class
+- Setup associations
+- Add basic UI
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
