@@ -2,7 +2,6 @@
 
 
 <div align="center">
-  
   <h3><b>OOP_SCH_LIBRARY</b></h3>
 
 </div>
@@ -77,7 +76,6 @@ To get a local copy up and running, follow these steps.
 ## 🔭 Future Features <a name="future-features"></a>
 
 > To be added later
-- Decorate class
 - Setup associations
 - Add basic UI
 
