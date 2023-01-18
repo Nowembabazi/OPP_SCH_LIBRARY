@@ -2,10 +2,7 @@
 
 
 <div align="center">
-  <!-- You are encouraged to replace this logo with your own! Otherwise you can also remove it. -->
-  <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
-  <br/>
-
+  
   <h3><b>OOP_SCH_LIBRARY</b></h3>
 
 </div>
@@ -70,7 +67,7 @@ To get a local copy up and running, follow these steps.
 
 - GitHub: [@Nowembabazi](https://github.com/Nowembabazi)
 - Twitter: [@NowembabaziN](https://twitter.com/NowembabaziN)
-- Linkedin: [@linkedinhandle](https://www.linkedin.com/in/nowebabazi-nickson/l)
+- Linkedin: [@nowembabazi-nickson](https://www.linkedin.com/in/nowebabazi-nickson/l)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -80,6 +77,10 @@ To get a local copy up and running, follow these steps.
 ## 🔭 Future Features <a name="future-features"></a>
 
 > To be added later
+- Decorate class
+- Setup associations
+- Add basic UI
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
