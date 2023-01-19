@@ -1,5 +1,6 @@
 require_relative('./nameable')
 require_relative('./rental')
+require './trimmer_decorator'
 
 class Person < Nameable
   def initialize(age, name = 'Unknown', parent_permission: true)
