@@ -1,6 +1,8 @@
+
 require './nameable'
 require './capitalize_decorator'
 require './trimmer_decorator'
+
 
 class Person < Nameable
   attr_reader :id

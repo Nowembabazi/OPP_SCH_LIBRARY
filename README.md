@@ -2,7 +2,6 @@
 
 
 <div align="center">
-
   <h3><b>OOP_SCH_LIBRARY</b></h3>
 
 </div>
